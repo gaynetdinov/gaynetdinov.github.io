@@ -1,23 +1,20 @@
 # Jykell configuration
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Damir Gainetdinov'
-description: ""
+name: "Damir Gainetdinov's blog"
 
 # Author's info
 author: 'Damir Gainetdinov'
-# edit 'categories' in the front matter of every post to match this username
-nickname: skoder
-bio: 'bio'
-location: 'location'
-url: 'url'
-image: 'assets/images/casper.png'
+nickname: damirca
+location: 'Berlin, Germany'
+url: 'http://twitter.com/damirca'
+image: 'assets/images/damirca.png'
 
-short_url: 'short_url'
+short_url: 'blog.damirca.one'
 #google_analytics: UA-69281367-1
 #disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -59,7 +56,7 @@ repo: gaynetdinov.github.io
 branch: master
 relative_source: ../jasper/
 destination: ../jasper-pages/
-production_url:  https://gaynetdinov.github.io/
+production_url:  https://blog.damirca.one
 source_url:      https://github.com/biomadeira/jasper/
 
 exclude:
