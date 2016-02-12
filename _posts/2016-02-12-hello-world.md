@@ -2,9 +2,10 @@
 layout: post
 cover: false
 title: Hello world
-date:   2016-02-12 23:12:00
+date:   2016-02-12 22:18:00
+subclass: 'post'
 categories: 'damirca'
 navigation: True
 ---
 
-Hello, world.
+Hello world

@@ -14,7 +14,7 @@ location: 'Berlin, Germany'
 url: 'http://twitter.com/damirca'
 image: 'assets/images/damirca.png'
 
-short_url: 'blog.damirca.one'
+short_url: 'twitter.com/damirca'
 #google_analytics: UA-69281367-1
 #disqus: username
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
@@ -54,9 +54,8 @@ lsi: false
 username: gaynetdinov
 repo: gaynetdinov.github.io
 branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
-production_url:  https://blog.damirca.one
+destination: ./_site/
+production_url:  http://blog.damirca.one
 source_url:      https://github.com/biomadeira/jasper/
 
 exclude:
